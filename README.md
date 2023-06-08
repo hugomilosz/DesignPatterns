@@ -10,13 +10,13 @@ This pattern defies the Single Responsibility Principle as it solves two issues 
 
 ## Patterns to Implement:
 
-Template Method
-Iterator Pattern
-Composite Pattern
-Command Pattern
-Observer Pattern
-Factory Pattern
-MVC Pattern
-Adapter Pattern
-Decorator Pattern
+Template Method <br>
+Iterator Pattern <br>
+Composite Pattern <br>
+Command Pattern <br>
+Observer Pattern <br>
+Factory Pattern <br>
+MVC Pattern <br>
+Adapter Pattern <br>
+Decorator Pattern <br>
 Proxy Pattern
