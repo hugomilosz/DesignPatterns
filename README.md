@@ -18,7 +18,6 @@ New subclasses can be implemented to create a new version of the algorithm with 
 
 ## Patterns to Implement:
 
-Template Method <br>
 Iterator Pattern <br>
 Composite Pattern <br>
 Command Pattern <br>
